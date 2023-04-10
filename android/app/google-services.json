@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765645804565",
+    "project_id": "umbria-8cae0",
+    "storage_bucket": "umbria-8cae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765645804565:android:f422456509adb811c86a1c",
+        "android_client_info": {
+          "package_name": "com.umbria.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765645804565-k6i0e5r0fpujsqrls87841vse09rmed1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEoeJS5_6ubNsElALoRaVhPnlDRdImpMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765645804565-k6i0e5r0fpujsqrls87841vse09rmed1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
